@@ -34,6 +34,3 @@ svg {
     align-items: center;
 }
 
-h1 {
-    @apply text-[40px] leading-[46px] mt-[52px]
-}
